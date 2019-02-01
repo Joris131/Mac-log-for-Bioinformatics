@@ -10,3 +10,10 @@
 ## 04. install humann2 
 
   conda install humann2
+  
+## 05. install metaphlan2
+
+  conda install metaphlan2
+### or
+  conda install -c bioconda metaphlan2  
+  
