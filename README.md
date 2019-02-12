@@ -19,4 +19,6 @@
 ## 06. installing based on bioconda
 
   conda install trimmomatic conda install kneaddata  
+  conda install bowtie2
+
   
