@@ -15,5 +15,8 @@
 
   conda install metaphlan2
 ### or
-  conda install -c bioconda metaphlan2  
+  conda install -c bioconda metaphlan2
+## 06. installing based on bioconda
+
+  conda install trimmomatic conda install kneaddata  
   
