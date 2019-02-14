@@ -20,5 +20,6 @@
 
   conda install trimmomatic conda install kneaddata  
   conda install bowtie2
+  conda install sra-tools
 
   
